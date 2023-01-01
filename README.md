@@ -1,4 +1,4 @@
-# Ft_printf
+# Ft_printf + Subject + Tester
 Recode the printf function
 
 Score : 100/100
